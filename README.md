@@ -39,9 +39,3 @@ All interactions are consensual and designed to help users understand themselves
 > 🎯 Explore, learn, and enjoy the journey of self-discovery!
 
 ---
-
-## 🖼️ Optional Enhancements
-
-- You can add a **top banner image** to make the README visually striking:  
-  ```markdown
-  ![iSensualFlow Banner](https://isensualflow.net/wp-content/uploads/2026/05/iSensualFlow-Banner.webp)
