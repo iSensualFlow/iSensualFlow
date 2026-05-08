@@ -23,7 +23,8 @@ Explore our LAB to understand yourself and your relationships better.
 
 Explore our LAB in your preferred language:
 
-- 🇪🇸 [Spain](https://isensualflow.es/lab/)  
+- 🇪🇸 [Spain](https://isensualflow.es/lab/)
+- 🇺🇸 [USA](https://isensualflow.net/lab/)  
 - 🇫🇷 [France](https://isensualflow.fr/lab/)  
 - 🇩🇪 [Germany](https://isensualflow.de/lab/)  
 - 🌐 [Global](https://isensualflow.com/lab/)
